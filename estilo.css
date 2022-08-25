@@ -1,0 +1,21 @@
+body{
+    background-color: #0D1A2D;
+}
+
+.container{
+    background-color: #15273F;
+    width: 368px;
+    height: 612px;
+    position: absolute;
+    left: 38%;
+    top: 12%;
+    border-radius: 18px ;
+    box-shadow: 10px 5px 5px #0f151d;
+}
+
+img{
+    width: 350px;
+    height:350px;
+    margin: 18px;
+    border-radius: 5%;
+}
