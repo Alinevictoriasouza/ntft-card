@@ -5,12 +5,12 @@ body{
 .container{
     background-color: #15273F;
     width: 368px;
-    height: 612px;
+    height: 580px;
     position: absolute;
     left: 38%;
     top: 5%;
     border-radius: 18px ;
-    box-shadow: 10px 5px 5px #0f151d;
+    box-shadow: 0px 20px 30px 15px rgba(17, 17, 17, 0.47);
 }
 
 img{
@@ -23,12 +23,70 @@ img{
 
 .text{
     color:aliceblue;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Outfit', sans-serif;
     font-weight: bold;
-    margin-left: 40px;
+    margin-left: 28px;
     font-size: 18px;
 }
 
 .text2{
-    color:rgb(145, 145, 145);
+    color:#495D79;
+    font-family: 'Outfit', sans-serif;
+    margin-left: 28px;
+    margin-top: 16px;
+}
+
+.icon{
+    height: 15px;
+    width: 10px;
+    vertical-align: middle;
+    margin-left: 28px;
+}
+
+.textETH{
+    font-family: 'Outfit', sans-serif;
+    color: #1EF7F3;
+    font-size: 14px;
+    margin-left: -12px;
+    margin-top: 16px;
+}
+
+.icon2{
+    height: 16px;
+    width: 16px;
+    margin-left: 130px;
+    vertical-align: middle;
+}
+
+.textTime{
+    font-family: 'Outfit', sans-serif;
+    color: #495D79;
+   font-size: 14px;
+   margin-left: -13px;
+}
+
+.line{
+    background-color: #495D79;
+    height: 1px;
+}
+
+.imgAvatar{
+    height: 30px;
+    width: 30px;
+    border-color: aliceblue;
+    vertical-align: middle;
+}
+
+.creation{
+    font-family: 'Outfit', sans-serif;
+    color: #495D79;
+   font-size: 14px;
+   margin-left: -13px;
+}
+
+.jules{
+    font-family: 'Outfit', sans-serif;
+    color: #9EABBA;
+   font-size: 14px;
+   
 }
