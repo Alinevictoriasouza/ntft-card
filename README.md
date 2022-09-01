@@ -11,5 +11,5 @@
 <h3> :scroll: Descrição</h3>
 <p> O card foi desenvolvido em sala de aula, usando código simples CSS e HTML</p>
 
-<p> :person_with_pouting_face: Desenvolvido por Aline Souza.</p>
+<p> :woman: Desenvolvido por Aline Souza.</p>
 
