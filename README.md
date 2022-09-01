@@ -1,1 +1,4 @@
-# ntft-card![ntft card](https://user-images.githubusercontent.com/86006464/187941218-695d7bae-97df-4ba8-bf3c-ef1009dd58fe.png)
+
+![ntft-card](https://user-images.githubusercontent.com/86006464/187943690-8cf7659c-0fc6-455a-a097-ddc6da4da2b5.png)
+
+<h1 align="center"> NTFT-CARD </h1>
